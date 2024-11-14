@@ -60,7 +60,7 @@ export const createAccount = async ({
                 fullName,
                 email,
                 // avatar: avatarPlaceholderUrl,
-                avatar: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Favatar-placeholder-abstract-white-blue-green_6796235.html&psig=AOvVaw3Exh2AgScPjCM0lwVXI836&ust=1731663630985000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDAgfPD24kDFQAAAAAdAAAAABAG",
+                avatar: "",
                 accountId,
             },
         );
